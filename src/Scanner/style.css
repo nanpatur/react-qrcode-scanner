@@ -1,0 +1,14 @@
+.qr-code-wrapper {
+  width: 100%;
+  position: relative;
+}
+
+.qr-code-image {
+  width: 50%;
+  transform: translate(50%, 0);
+  margin: 16px 0 16px 0;
+}
+
+.qr-code-image div {
+  border: none !important;
+}
